@@ -9,7 +9,7 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="www.linkedin.com/in/javed-khan52" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+<a href="https://www.linkedin.com/in/javed-khan-4a2b19238" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
 <a href="https://www.instagram.com/__javed_khan_011" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
 </p>
 

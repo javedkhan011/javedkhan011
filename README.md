@@ -22,11 +22,4 @@
 
 ---
 
-### 📊 GitHub Stats:
-![Javed's GitHub stats](https://github-readme-stats.vercel.app/api?username=javedkhan011&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javedkhan011&layout=compact&theme=tokyonight)
-
----
-
 ⭐️ From [Javed Khan](https://github.com/javedkhan011)
